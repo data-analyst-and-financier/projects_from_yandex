@@ -10,14 +10,17 @@
 ## Навыки и инструменты
 
 - `pandas`, 
-- `matplotlib`, 
+- `matplotlib.pyplot`, 
+- `matplotlib.ticker`,
 - `seaborn`, 
 - `scipy`, 
 - `numpy`, 
-- `plotly`, 
+- `plotly.express`, 
 - `statistics`, 
+- `предобработка данных`
 - `EDA` и `корреляционный анализ`, 
 - `проверка статистических гипотез`, 
+- `визуализация данных`,
 - `подготовка презентации`,
 - `Tableau` и `разработка дашборда`.
 
