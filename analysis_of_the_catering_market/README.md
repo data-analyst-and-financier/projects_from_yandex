@@ -1,6 +1,6 @@
 # Анализ рынка заведений общепита Москвы
 
-Тот же проект в формате `html` доступен по ссылке.
+Тот же проект в формате `html` доступен по [ссылке](https://raw.githubusercontent.com/data-analyst-and-financier/my_portfolio/main/analysis_of_the_catering_market/analysis_of_the_catering_market.html).
 
 Презентация, подготовленная по итогам выполненной работы, размещена по [ссылке](https://drive.google.com/file/d/1pS_4tx2xG5mUVr1UIT-YP4n_Gv7C4L0E/view?usp=drive_link).
 
