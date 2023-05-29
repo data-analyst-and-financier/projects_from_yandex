@@ -1,6 +1,6 @@
 # Анализ рынка заведений общепита Москвы
 
-Презентация, подготовленная по итогам выполненной работы, размещена по [ссылке]([https://drive.google.com/file/d/1rFGe5AyhZ2s_5xEOnoS_SLgbpw2AXNrJ/view](https://drive.google.com/file/d/1pS_4tx2xG5mUVr1UIT-YP4n_Gv7C4L0E/view?usp=drive_link)).
+Презентация, подготовленная по итогам выполненной работы, размещена по [ссылке](https://drive.google.com/file/d/1pS_4tx2xG5mUVr1UIT-YP4n_Gv7C4L0E/view?usp=drive_link).
 
 ## Описание проекта
 
