@@ -1,4 +1,5 @@
 # Анализ оттока клиентов банка
+Для корректной работы оглавления рекомендуется загрузить [проект](https://nbviewer.org/github/data-analyst-and-financier/my_portfolio/blob/main/bank_customer_churn_analysis/bank_customer_churn_analysis.ipynb) на сервисе `nbviewer`.  
 Тот же проект в формате `html` доступен по [ссылке](https://raw.githubusercontent.com/data-analyst-and-financier/my_portfolio/main/bank_customer_churn_analysis/bank_customer_churn_analysis.html).
 
 Презентация, подготовленная по итогам выполненной работы, размещена [тут](https://drive.google.com/file/d/1rFGe5AyhZ2s_5xEOnoS_SLgbpw2AXNrJ/view), а дашборд для анализа оттока клиентов с возможностью фильтрации по городу находится [тут](https://public.tableau.com/app/profile/mher.dallakyan/viz/customer_outflow_diplom/customer_outflow_diplom?publish=yes).
