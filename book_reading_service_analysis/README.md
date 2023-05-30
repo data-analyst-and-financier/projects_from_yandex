@@ -1,5 +1,7 @@
 # Анализ данных онлайн-сервиса по чтению книг
 
+Для корректной работы оглавления рекомендуется загрузить [проект](https://nbviewer.org/github/data-analyst-and-financier/my_portfolio/blob/main/book_reading_service_analysis/book_reading_service_analysis.ipynb) на сервисе `nbviewer`.
+
 Схема базы данных сервиса доступна по [ссылке](https://drive.google.com/file/d/1kbkibJAnyWyeHheGAzjqcowvOiJt8gsb/view?usp=share_link).
 
 ## Описание проекта
