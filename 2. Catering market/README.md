@@ -1,7 +1,7 @@
 # Анализ рынка заведений общепита Москвы
 
 Для отображения интерактивных элементов и корректной работы оглавления рекомендуется загрузить [проект](https://nbviewer.org/github/data-analyst-and-financier/my_portfolio/blob/main/2.%20Catering%20market/Project%20file%20%E2%84%96%202.ipynb) на сервисе `nbviewer`.  
-Тот же проект в формате `html` доступен по [ссылке](https://raw.githubusercontent.com/data-analyst-and-financier/my_portfolio/main/catering_market_analysis/catering_market_analysis.html).
+Тот же проект в формате `html` доступен по [ссылке](https://raw.githubusercontent.com/data-analyst-and-financier/my_portfolio/main/2.%20Catering%20market/Project%20file%20%E2%84%96%202.html).
 
 Презентация, подготовленная по итогам выполненной работы, размещена по [ссылке](https://drive.google.com/file/d/1pS_4tx2xG5mUVr1UIT-YP4n_Gv7C4L0E/view?usp=drive_link).
 
